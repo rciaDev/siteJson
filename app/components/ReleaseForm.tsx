@@ -89,7 +89,7 @@ export function ReleaseForm() {
         <div className="mt-3 flex flex-wrap gap-3 text-sm">
           <a
             className="underline underline-offset-4 text-zinc-800 dark:text-zinc-200"
-            href="/api/releases/latest"
+            href="/api/releases/atualizacoes"
             target="_blank"
             rel="noreferrer"
           >
